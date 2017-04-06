@@ -1,0 +1,15 @@
+Using FC on windows to find out error between two versions of a code was like magic. I didnt know it before. We can see the normal differences in codes like apple instead of oranges. But we need to find out the bug which is easy using FC. ALthough I would like to see only the bug or minimize the results
+
+Easy access of previous versions helps as it allows us to go back to something from where we can take a fresh start if things had gotten bad. Also it helps to send the previous version of your work to some other guys for help.
+
+The advantage is that a computer brain cannot decide when a version needs to be saved for better understanding for me.
+
+Git allows to save multiple files in a repository because these files are connected so they need to stay together to compare the complete versions of the code . like html with css.
+
+Through git log we can see the commits and the messages related to the commits. They have ids which we can compare by get diff and see the changes made between two different commits. pasting two consecutive commits shows the number of changes made in a particular commit.
+
+version control makes me feel secure and remove the fear of breaking everything as I can jump between commits as i like without any restriction and without losing anything
+
+I want to use it to develop andoroid apps
+
+When we intitliaze a repository it creates a git folder in which it stores all the commits. We need it to check all previous versions of a project through commit.
