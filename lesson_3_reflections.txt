@@ -1,1 +1,7 @@
 Remote repository is required to copy the contents of the master from the local directory onto github as the remote directory is kind of an image of the directory on github
+
+Because some commit might make up a new feature which I will upload when it is completely made and that could take up days and I would not want to share anything publicly before the feature is up and running.
+
+fork - to copy from one github user to another github user
+clone - github to local
+branch- within local

@@ -1,1 +1,7 @@
 When we intitliaze a repository it creates a git folder in which it stores all the commits. We need it to check all previous versions of a project through commit.
+
+Staging area stores the files before we commit. It is in between working directory and repository.
+
+We can use staging area to store files after making a change in working directory and then commit that change. Thus if we make 5 changes in working directory, we can add the files to the staging area one by one and then commit.
+
+Making branches help as I can keep the master file intact and still work on new projects on the other branch.
