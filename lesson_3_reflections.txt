@@ -1,0 +1,1 @@
+Remote repository is required to copy the contents of the master from the local directory onto github as the remote directory is kind of an image of the directory on github
